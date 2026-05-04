@@ -7,24 +7,7 @@ import surahs from "@/data/surah.json";
 import quran from "@/data/quran.json";
 import AyahCard from "@/components/AyahCard";
 import SettingsModal from "@/components/SettingsModal";
-
-interface IAyah {
-  surah: number;
-  ayah: number;
-  arabic: string;
-  translation: string;
-  globalNumber: number;
-}
-
-interface ISurah {
-  number: number;
-  place: string;
-  type: string;
-  count: number;
-  title: string;
-  titleAr: string;
-  englishNameTranslation: string;
-}
+import { IAyah, ISurah } from "./types";
 
 export default function HomeClient() {
   const searchParams = useSearchParams();
@@ -83,7 +66,9 @@ export default function HomeClient() {
 
         {/* SURAH SIDEBAR */}
         <div className="hidden md:block w-80 lg:w-96 bg-[#0b0f14] border-r border-[#1f2937] overflow-y-auto min-h-0">
-          <div className="p-4 font-bold border-b border-gray-800">Surah</div>
+          <div className="p-6 font-bold text-2xl border-b border-gray-800 ">
+            Surah
+          </div>
 
           {surahs.map((s: ISurah) => (
             <Link
