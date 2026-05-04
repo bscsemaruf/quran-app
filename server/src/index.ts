@@ -3,10 +3,17 @@ import cors from "cors";
 import searchRoute from "./routes/search";
 
 const app = express();
-app.use(cors());
 
+// ✅ middlewares
+app.use(cors());
+app.use(express.json());
+
+// ✅ routes
 app.use("/api/search", searchRoute);
 
-app.listen(process.env.PORT, () => {
-  console.log("Server running on port 5000");
+// ✅ port handling (VERY IMPORTANT)
+const PORT = process.env.PORT || 5000;
+
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
 });
