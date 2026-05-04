@@ -1,0 +1,2429 @@
+[
+  {
+    "number": 1,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 7,
+    "title": "Al-Fatiha",
+    "titleAr": "الفاتحة",
+    "pages": "1",
+    "juz": [
+      {
+        "index": "01",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_7"
+        }
+      }
+    ],
+    "englishName": "Al-Faatiha",
+    "englishNameTranslation": "The Opening"
+  },
+  {
+    "number": 2,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 286,
+    "title": "Al-Baqara",
+    "titleAr": "البقرة",
+    "pages": "2",
+    "juz": [
+      {
+        "index": "01",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_141"
+        }
+      },
+      {
+        "index": "02",
+        "verse": {
+          "start": "verse_142",
+          "end": "verse_252"
+        }
+      },
+      {
+        "index": "03",
+        "verse": {
+          "start": "verse_253",
+          "end": "verse_286"
+        }
+      }
+    ],
+    "englishName": "Al-Baqara",
+    "englishNameTranslation": "The Cow"
+  },
+  {
+    "number": 3,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 200,
+    "title": "Aal-Imran",
+    "titleAr": "آل عمران",
+    "pages": "45",
+    "juz": [
+      {
+        "index": "03",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_92"
+        }
+      },
+      {
+        "index": "04",
+        "verse": {
+          "start": "verse_93",
+          "end": "verse_200"
+        }
+      }
+    ],
+    "englishName": "Aal-i-Imraan",
+    "englishNameTranslation": "The Family of Imraan"
+  },
+  {
+    "number": 4,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 176,
+    "title": "An-Nisaa'",
+    "titleAr": "النساء",
+    "pages": "69",
+    "juz": [
+      {
+        "index": "04",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_23"
+        }
+      },
+      {
+        "index": "05",
+        "verse": {
+          "start": "verse_24",
+          "end": "verse_147"
+        }
+      },
+      {
+        "index": "06",
+        "verse": {
+          "start": "verse_148",
+          "end": "verse_176"
+        }
+      }
+    ],
+    "englishName": "An-Nisaa",
+    "englishNameTranslation": "The Women"
+  },
+  {
+    "number": 5,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 120,
+    "title": "Al-Ma'ida",
+    "titleAr": "المائدة",
+    "pages": "95",
+    "juz": [
+      {
+        "index": "06",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_81"
+        }
+      },
+      {
+        "index": "07",
+        "verse": {
+          "start": "verse_82",
+          "end": "verse_120"
+        }
+      }
+    ],
+    "englishName": "Al-Maaida",
+    "englishNameTranslation": "The Table"
+  },
+  {
+    "number": 6,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 165,
+    "title": "Al-An'am",
+    "titleAr": "الأنعام",
+    "pages": "115",
+    "juz": [
+      {
+        "index": "07",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_110"
+        }
+      },
+      {
+        "index": "08",
+        "verse": {
+          "start": "verse_111",
+          "end": "verse_165"
+        }
+      }
+    ],
+    "englishName": "Al-An'aam",
+    "englishNameTranslation": "The Cattle"
+  },
+  {
+    "number": 7,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 206,
+    "title": "Al-A'raf",
+    "titleAr": "الأعراف",
+    "pages": "136",
+    "juz": [
+      {
+        "index": "08",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_87"
+        }
+      },
+      {
+        "index": "09",
+        "verse": {
+          "start": "verse_88",
+          "end": "verse_206"
+        }
+      }
+    ],
+    "englishName": "Al-A'raaf",
+    "englishNameTranslation": "The Heights"
+  },
+  {
+    "number": 8,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 75,
+    "title": "Al-Anfal",
+    "titleAr": "الأنفال",
+    "pages": "160",
+    "juz": [
+      {
+        "index": "09",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_40"
+        }
+      },
+      {
+        "index": "10",
+        "verse": {
+          "start": "verse_41",
+          "end": "verse_75"
+        }
+      }
+    ],
+    "englishName": "Al-Anfaal",
+    "englishNameTranslation": "The Spoils of War"
+  },
+  {
+    "number": 9,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 129,
+    "title": "Al-Tawba",
+    "titleAr": "التوبة",
+    "pages": "169",
+    "juz": [
+      {
+        "index": "10",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_92"
+        }
+      },
+      {
+        "index": "11",
+        "verse": {
+          "start": "verse_93",
+          "end": "verse_129"
+        }
+      }
+    ],
+    "englishName": "At-Tawba",
+    "englishNameTranslation": "The Repentance"
+  },
+  {
+    "number": 10,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 109,
+    "title": "Yunus",
+    "titleAr": "يونس",
+    "pages": "187",
+    "juz": [
+      {
+        "index": "11",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_109"
+        }
+      }
+    ],
+    "englishName": "Yunus",
+    "englishNameTranslation": "Jonas"
+  },
+  {
+    "number": 11,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 123,
+    "title": "Hud",
+    "titleAr": "هود",
+    "pages": "199",
+    "juz": [
+      {
+        "index": "11",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_5"
+        }
+      },
+      {
+        "index": "12",
+        "verse": {
+          "start": "verse_6",
+          "end": "verse_123"
+        }
+      }
+    ],
+    "englishName": "Hud",
+    "englishNameTranslation": "Hud"
+  },
+  {
+    "number": 12,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 111,
+    "title": "Yusuf",
+    "titleAr": "يوسف",
+    "pages": "212",
+    "juz": [
+      {
+        "index": "12",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_52"
+        }
+      },
+      {
+        "index": "13",
+        "verse": {
+          "start": "verse_53",
+          "end": "verse_111"
+        }
+      }
+    ],
+    "englishName": "Yusuf",
+    "englishNameTranslation": "Joseph"
+  },
+  {
+    "number": 13,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 43,
+    "title": "Ar-Ra'd",
+    "titleAr": "الرعد",
+    "pages": "225",
+    "juz": [
+      {
+        "index": "13",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_43"
+        }
+      }
+    ],
+    "englishName": "Ar-Ra'd",
+    "englishNameTranslation": "The Thunder"
+  },
+  {
+    "number": 14,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 52,
+    "title": "Ibrahim",
+    "titleAr": "إبراهيم",
+    "pages": "231",
+    "juz": [
+      {
+        "index": "13",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_52"
+        }
+      }
+    ],
+    "englishName": "Ibrahim",
+    "englishNameTranslation": "Abraham"
+  },
+  {
+    "number": 15,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 99,
+    "title": "Al-Hijr",
+    "titleAr": "الحجر",
+    "pages": "237",
+    "juz": [
+      {
+        "index": "14",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_99"
+        }
+      }
+    ],
+    "englishName": "Al-Hijr",
+    "englishNameTranslation": "The Rock"
+  },
+  {
+    "number": 16,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 128,
+    "title": "An-Nahl",
+    "titleAr": "النحل",
+    "pages": "242",
+    "juz": [
+      {
+        "index": "14",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_128"
+        }
+      }
+    ],
+    "englishName": "An-Nahl",
+    "englishNameTranslation": "The Bee"
+  },
+  {
+    "number": 17,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 111,
+    "title": "Al-Israa",
+    "titleAr": "الإسراء",
+    "pages": "255",
+    "juz": [
+      {
+        "index": "15",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_111"
+        }
+      }
+    ],
+    "englishName": "Al-Israa",
+    "englishNameTranslation": "The Night Journey"
+  },
+  {
+    "number": 18,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 110,
+    "title": "Al-Kahf",
+    "titleAr": "الكهف",
+    "pages": "266",
+    "juz": [
+      {
+        "index": "15",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_74"
+        }
+      },
+      {
+        "index": "16",
+        "verse": {
+          "start": "verse_75",
+          "end": "verse_110"
+        }
+      }
+    ],
+    "englishName": "Al-Kahf",
+    "englishNameTranslation": "The Cave"
+  },
+  {
+    "number": 19,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 98,
+    "title": "Maryam",
+    "titleAr": "مريم",
+    "pages": "277",
+    "juz": [
+      {
+        "index": "16",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_98"
+        }
+      }
+    ],
+    "englishName": "Maryam",
+    "englishNameTranslation": "Mary"
+  },
+  {
+    "number": 20,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 135,
+    "title": "Ta-Ha",
+    "titleAr": "طه",
+    "pages": "284",
+    "juz": [
+      {
+        "index": "16",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_135"
+        }
+      }
+    ],
+    "englishName": "Taa-Haa",
+    "englishNameTranslation": "Taa-Haa"
+  },
+  {
+    "number": 21,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 112,
+    "title": "Al-Anbiya",
+    "titleAr": "الأنبياء",
+    "pages": "294",
+    "juz": [
+      {
+        "index": "17",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_112"
+        }
+      }
+    ],
+    "englishName": "Al-Anbiyaa",
+    "englishNameTranslation": "The Prophets"
+  },
+  {
+    "number": 22,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 78,
+    "title": "Al-Hajj",
+    "titleAr": "الحج",
+    "pages": "302",
+    "juz": [
+      {
+        "index": "17",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_78"
+        }
+      }
+    ],
+    "englishName": "Al-Hajj",
+    "englishNameTranslation": "The Pilgrimage"
+  },
+  {
+    "number": 23,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 118,
+    "title": "Al-Muminun",
+    "titleAr": "المؤمنون",
+    "pages": "311",
+    "juz": [
+      {
+        "index": "18",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_118"
+        }
+      }
+    ],
+    "englishName": "Al-Muminoon",
+    "englishNameTranslation": "The Believers"
+  },
+  {
+    "number": 24,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 64,
+    "title": "An-Nur",
+    "titleAr": "النور",
+    "pages": "319",
+    "juz": [
+      {
+        "index": "18",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_64"
+        }
+      }
+    ],
+    "englishName": "An-Noor",
+    "englishNameTranslation": "The Light"
+  },
+  {
+    "number": 25,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 77,
+    "title": "Al-Furqan",
+    "titleAr": "الفرقان",
+    "pages": "329",
+    "juz": [
+      {
+        "index": "18",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_20"
+        }
+      },
+      {
+        "index": "19",
+        "verse": {
+          "start": "verse_21",
+          "end": "verse_77"
+        }
+      }
+    ],
+    "englishName": "Al-Furqaan",
+    "englishNameTranslation": "The Criterion"
+  },
+  {
+    "number": 26,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 227,
+    "title": "Ash-Shuara",
+    "titleAr": "الشعراء",
+    "pages": "335",
+    "juz": [
+      {
+        "index": "19",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_227"
+        }
+      }
+    ],
+    "englishName": "Ash-Shu'araa",
+    "englishNameTranslation": "The Poets"
+  },
+  {
+    "number": 27,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 93,
+    "title": "An-Naml",
+    "titleAr": "النمل",
+    "pages": "345",
+    "juz": [
+      {
+        "index": "19",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_55"
+        }
+      },
+      {
+        "index": "20",
+        "verse": {
+          "start": "verse_56",
+          "end": "verse_93"
+        }
+      }
+    ],
+    "englishName": "An-Naml",
+    "englishNameTranslation": "The Ant"
+  },
+  {
+    "number": 28,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 88,
+    "title": "Al-Qasas",
+    "titleAr": "القصص",
+    "pages": "354",
+    "juz": [
+      {
+        "index": "20",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_88"
+        }
+      }
+    ],
+    "englishName": "Al-Qasas",
+    "englishNameTranslation": "The Stories"
+  },
+  {
+    "number": 29,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 69,
+    "title": "Al-Ankabut",
+    "titleAr": "العنكبوت",
+    "pages": "364",
+    "juz": [
+      {
+        "index": "20",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_45"
+        }
+      },
+      {
+        "index": "21",
+        "verse": {
+          "start": "verse_46",
+          "end": "verse_69"
+        }
+      }
+    ],
+    "englishName": "Al-Ankaboot",
+    "englishNameTranslation": "The Spider"
+  },
+  {
+    "number": 30,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 60,
+    "title": "Ar-Rum",
+    "titleAr": "الروم",
+    "pages": "371",
+    "juz": [
+      {
+        "index": "21",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_60"
+        }
+      }
+    ],
+    "englishName": "Ar-Room",
+    "englishNameTranslation": "The Romans"
+  },
+  {
+    "number": 31,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 34,
+    "title": "Luqman",
+    "titleAr": "لقمان",
+    "pages": "377",
+    "juz": [
+      {
+        "index": "21",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_34"
+        }
+      }
+    ],
+    "englishName": "Luqman",
+    "englishNameTranslation": "Luqman"
+  },
+  {
+    "number": 32,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 30,
+    "title": "As-Sajdah",
+    "titleAr": "السجدة",
+    "pages": "381",
+    "juz": [
+      {
+        "index": "21",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_30"
+        }
+      }
+    ],
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration"
+  },
+  {
+    "number": 33,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 73,
+    "title": "Al-Ahzab",
+    "titleAr": "الأحزاب",
+    "pages": "383",
+    "juz": [
+      {
+        "index": "21",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_30"
+        }
+      },
+      {
+        "index": "22",
+        "verse": {
+          "start": "verse_31",
+          "end": "verse_73"
+        }
+      }
+    ],
+    "englishName": "Al-Ahzaab",
+    "englishNameTranslation": "The Clans"
+  },
+  {
+    "number": 34,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 54,
+    "title": "Saba",
+    "titleAr": "سبأ",
+    "pages": "393",
+    "juz": [
+      {
+        "index": "22",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_54"
+        }
+      }
+    ],
+    "englishName": "Saba",
+    "englishNameTranslation": "Sheba"
+  },
+  {
+    "number": 35,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 45,
+    "title": "Fatir",
+    "titleAr": "فاطر",
+    "pages": "399",
+    "juz": [
+      {
+        "index": "22",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_45"
+        }
+      }
+    ],
+    "englishName": "Faatir",
+    "englishNameTranslation": "The Originator"
+  },
+  {
+    "number": 36,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 83,
+    "title": "Yasin",
+    "titleAr": "يس",
+    "pages": "404",
+    "juz": [
+      {
+        "index": "22",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_27"
+        }
+      },
+      {
+        "index": "23",
+        "verse": {
+          "start": "verse_28",
+          "end": "verse_83"
+        }
+      }
+    ],
+    "englishName": "Yaseen",
+    "englishNameTranslation": "Yaseen"
+  },
+  {
+    "number": 37,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 182,
+    "title": "As-Saffat",
+    "titleAr": "الصافات",
+    "pages": "410",
+    "juz": [
+      {
+        "index": "23",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_182"
+        }
+      }
+    ],
+    "englishName": "As-Saaffaat",
+    "englishNameTranslation": "Those drawn up in Ranks"
+  },
+  {
+    "number": 38,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 88,
+    "title": "Sad",
+    "titleAr": "ص",
+    "pages": "417",
+    "juz": [
+      {
+        "index": "23",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_88"
+        }
+      }
+    ],
+    "englishName": "Saad",
+    "englishNameTranslation": "The letter Saad"
+  },
+  {
+    "number": 39,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 75,
+    "title": "Az-Zumar",
+    "titleAr": "الزمر",
+    "pages": "422",
+    "juz": [
+      {
+        "index": "23",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_31"
+        }
+      },
+      {
+        "index": "24",
+        "verse": {
+          "start": "verse_32",
+          "end": "verse_75"
+        }
+      }
+    ],
+    "englishName": "Az-Zumar",
+    "englishNameTranslation": "The Groups"
+  },
+  {
+    "number": 40,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 85,
+    "title": "Ghafir",
+    "titleAr": "غافر",
+    "pages": "431",
+    "juz": [
+      {
+        "index": "24",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_85"
+        }
+      }
+    ],
+    "englishName": "Ghafir",
+    "englishNameTranslation": "The Forgiver"
+  },
+  {
+    "number": 41,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 54,
+    "title": "Fussilat",
+    "titleAr": "فصلت",
+    "pages": "439",
+    "juz": [
+      {
+        "index": "24",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_46"
+        }
+      },
+      {
+        "index": "25",
+        "verse": {
+          "start": "verse_47",
+          "end": "verse_54"
+        }
+      }
+    ],
+    "englishName": "Fussilat",
+    "englishNameTranslation": "Explained in detail"
+  },
+  {
+    "number": 42,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 53,
+    "title": "Ash-Shura",
+    "titleAr": "الشورى",
+    "pages": "445",
+    "juz": [
+      {
+        "index": "25",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_53"
+        }
+      }
+    ],
+    "englishName": "Ash-Shura",
+    "englishNameTranslation": "Consultation"
+  },
+  {
+    "number": 43,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 89,
+    "title": "Az-Zukhruf",
+    "titleAr": "الزخرف",
+    "pages": "451",
+    "juz": [
+      {
+        "index": "25",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_89"
+        }
+      }
+    ],
+    "englishName": "Az-Zukhruf",
+    "englishNameTranslation": "Ornaments of gold"
+  },
+  {
+    "number": 44,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 59,
+    "title": "Ad-Dukhan",
+    "titleAr": "الدخان",
+    "pages": "457",
+    "juz": [
+      {
+        "index": "25",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_59"
+        }
+      }
+    ],
+    "englishName": "Ad-Dukhaan",
+    "englishNameTranslation": "The Smoke"
+  },
+  {
+    "number": 45,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 37,
+    "title": "Al-Jathiya",
+    "titleAr": "الجاثية",
+    "pages": "460",
+    "juz": [
+      {
+        "index": "25",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_37"
+        }
+      }
+    ],
+    "englishName": "Al-Jaathiya",
+    "englishNameTranslation": "Crouching"
+  },
+  {
+    "number": 46,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 35,
+    "title": "Al-Ahqaf",
+    "titleAr": "الأحقاف",
+    "pages": "464",
+    "juz": [
+      {
+        "index": "26",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_35"
+        }
+      }
+    ],
+    "englishName": "Al-Ahqaf",
+    "englishNameTranslation": "The Dunes"
+  },
+  {
+    "number": 47,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 38,
+    "title": "Muhammad",
+    "titleAr": "محمد",
+    "pages": "468",
+    "juz": [
+      {
+        "index": "26",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_38"
+        }
+      }
+    ],
+    "englishName": "Muhammad",
+    "englishNameTranslation": "Muhammad"
+  },
+  {
+    "number": 48,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 29,
+    "title": "Al-Fath",
+    "titleAr": "الفتح",
+    "pages": "472",
+    "juz": [
+      {
+        "index": "26",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_29"
+        }
+      }
+    ],
+    "englishName": "Al-Fath",
+    "englishNameTranslation": "The Victory"
+  },
+  {
+    "number": 49,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 18,
+    "title": "Al-Hujurat",
+    "titleAr": "الحجرات",
+    "pages": "477",
+    "juz": [
+      {
+        "index": "26",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_18"
+        }
+      }
+    ],
+    "englishName": "Al-Hujuraat",
+    "englishNameTranslation": "The Inner Apartments"
+  },
+  {
+    "number": 50,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 45,
+    "title": "Qaf",
+    "titleAr": "ق",
+    "pages": "479",
+    "juz": [
+      {
+        "index": "26",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_45"
+        }
+      }
+    ],
+    "englishName": "Qaaf",
+    "englishNameTranslation": "The letter Qaaf"
+  },
+  {
+    "number": 51,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 60,
+    "title": "Az-Zariyat",
+    "titleAr": "الذاريات",
+    "pages": "482",
+    "juz": [
+      {
+        "index": "26",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_30"
+        }
+      },
+      {
+        "index": "27",
+        "verse": {
+          "start": "verse_31",
+          "end": "verse_60"
+        }
+      }
+    ],
+    "englishName": "Adh-Dhaariyat",
+    "englishNameTranslation": "The Winnowing Winds"
+  },
+  {
+    "number": 52,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 49,
+    "title": "At-Tur",
+    "titleAr": "الطور",
+    "pages": "485",
+    "juz": [
+      {
+        "index": "27",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_49"
+        }
+      }
+    ],
+    "englishName": "At-Tur",
+    "englishNameTranslation": "The Mount"
+  },
+  {
+    "number": 53,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 62,
+    "title": "An-Najm",
+    "titleAr": "النجم",
+    "pages": "487",
+    "juz": [
+      {
+        "index": "27",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_62"
+        }
+      }
+    ],
+    "englishName": "An-Najm",
+    "englishNameTranslation": "The Star"
+  },
+  {
+    "number": 54,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 55,
+    "title": "Al-Qamar",
+    "titleAr": "القمر",
+    "pages": "490",
+    "juz": [
+      {
+        "index": "27",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_55"
+        }
+      }
+    ],
+    "englishName": "Al-Qamar",
+    "englishNameTranslation": "The Moon"
+  },
+  {
+    "number": 55,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 78,
+    "title": "Ar-Rahman",
+    "titleAr": "الرحمن",
+    "pages": "493",
+    "juz": [
+      {
+        "index": "27",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_78"
+        }
+      }
+    ],
+    "englishName": "Ar-Rahmaan",
+    "englishNameTranslation": "The Beneficent"
+  },
+  {
+    "number": 56,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 96,
+    "title": "Al-Waqia",
+    "titleAr": "الواقعة",
+    "pages": "496",
+    "juz": [
+      {
+        "index": "27",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_96"
+        }
+      }
+    ],
+    "englishName": "Al-Waaqia",
+    "englishNameTranslation": "The Inevitable"
+  },
+  {
+    "number": 57,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 29,
+    "title": "Al-Hadid",
+    "titleAr": "الحديد",
+    "pages": "499",
+    "juz": [
+      {
+        "index": "27",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_29"
+        }
+      }
+    ],
+    "englishName": "Al-Hadid",
+    "englishNameTranslation": "The Iron"
+  },
+  {
+    "number": 58,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 22,
+    "title": "Al-Mujadilah",
+    "titleAr": "المجادلة",
+    "pages": "504",
+    "juz": [
+      {
+        "index": "28",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_22"
+        }
+      }
+    ],
+    "englishName": "Al-Mujaadila",
+    "englishNameTranslation": "The Pleading Woman"
+  },
+  {
+    "number": 59,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 24,
+    "title": "Al-Hashr",
+    "titleAr": "الحشر",
+    "pages": "507",
+    "juz": [
+      {
+        "index": "28",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_24"
+        }
+      }
+    ],
+    "englishName": "Al-Hashr",
+    "englishNameTranslation": "The Exile"
+  },
+  {
+    "number": 60,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 13,
+    "title": "Al-Mumtahinah",
+    "titleAr": "الممتحنة",
+    "pages": "510",
+    "juz": [
+      {
+        "index": "28",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_13"
+        }
+      }
+    ],
+    "englishName": "Al-Mumtahana",
+    "englishNameTranslation": "She that is to be examined"
+  },
+  {
+    "number": 61,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 14,
+    "title": "As-Saff",
+    "titleAr": "الصف",
+    "pages": "513",
+    "juz": [
+      {
+        "index": "28",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_14"
+        }
+      }
+    ],
+    "englishName": "As-Saff",
+    "englishNameTranslation": "The Ranks"
+  },
+  {
+    "number": 62,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 11,
+    "title": "Al-Jumu'ah",
+    "titleAr": "الجمعة",
+    "pages": "515",
+    "juz": [
+      {
+        "index": "28",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_11"
+        }
+      }
+    ],
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday"
+  },
+  {
+    "number": 63,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 11,
+    "title": "Al-Munafiqun",
+    "titleAr": "المنافقون",
+    "pages": "516",
+    "juz": [
+      {
+        "index": "28",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_11"
+        }
+      }
+    ],
+    "englishName": "Al-Munaafiqoon",
+    "englishNameTranslation": "The Hypocrites"
+  },
+  {
+    "number": 64,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 18,
+    "title": "At-Taghabun",
+    "titleAr": "التغابن",
+    "pages": "518",
+    "juz": [
+      {
+        "index": "28",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_18"
+        }
+      }
+    ],
+    "englishName": "At-Taghaabun",
+    "englishNameTranslation": "Mutual Disillusion"
+  },
+  {
+    "number": 65,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 12,
+    "title": "At-Talaq",
+    "titleAr": "الطلاق",
+    "pages": "520",
+    "juz": [
+      {
+        "index": "28",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_12"
+        }
+      }
+    ],
+    "englishName": "At-Talaaq",
+    "englishNameTranslation": "Divorce"
+  },
+  {
+    "number": 66,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 12,
+    "title": "At-Tahrim",
+    "titleAr": "التحريم",
+    "pages": "522",
+    "juz": [
+      {
+        "index": "28",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_12"
+        }
+      }
+    ],
+    "englishName": "At-Tahrim",
+    "englishNameTranslation": "The Prohibition"
+  },
+  {
+    "number": 67,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 30,
+    "title": "Al-Mulk",
+    "titleAr": "الملك",
+    "pages": "524",
+    "juz": [
+      {
+        "index": "29",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_30"
+        }
+      }
+    ],
+    "englishName": "Al-Mulk",
+    "englishNameTranslation": "The Sovereignty"
+  },
+  {
+    "number": 68,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 52,
+    "title": "Al-Qalam",
+    "titleAr": "القلم",
+    "pages": "526",
+    "juz": [
+      {
+        "index": "29",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_52"
+        }
+      }
+    ],
+    "englishName": "Al-Qalam",
+    "englishNameTranslation": "The Pen"
+  },
+  {
+    "number": 69,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 52,
+    "title": "Al-Haqqah",
+    "titleAr": "الحاقة",
+    "pages": "529",
+    "juz": [
+      {
+        "index": "29",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_52"
+        }
+      }
+    ],
+    "englishName": "Al-Haaqqa",
+    "englishNameTranslation": "The Reality"
+  },
+  {
+    "number": 70,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 44,
+    "title": "Al-Ma'arij",
+    "titleAr": "المعارج",
+    "pages": "531",
+    "juz": [
+      {
+        "index": "29",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_44"
+        }
+      }
+    ],
+    "englishName": "Al-Ma'aarij",
+    "englishNameTranslation": "The Ascending Stairways"
+  },
+  {
+    "number": 71,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 28,
+    "title": "Nuh",
+    "titleAr": "نوح",
+    "pages": "533",
+    "juz": [
+      {
+        "index": "29",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_28"
+        }
+      }
+    ],
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah"
+  },
+  {
+    "number": 72,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 28,
+    "title": "Al-Jinn",
+    "titleAr": "الجن",
+    "pages": "534",
+    "juz": [
+      {
+        "index": "29",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_28"
+        }
+      }
+    ],
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn"
+  },
+  {
+    "number": 73,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 20,
+    "title": "Al-Muzzammil",
+    "titleAr": "المزمل",
+    "pages": "537",
+    "juz": [
+      {
+        "index": "29",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_20"
+        }
+      }
+    ],
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One"
+  },
+  {
+    "number": 74,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 56,
+    "title": "Al-Muddaththir",
+    "titleAr": "المدثر",
+    "pages": "538",
+    "juz": [
+      {
+        "index": "29",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_56"
+        }
+      }
+    ],
+    "englishName": "Al-Muddaththir",
+    "englishNameTranslation": "The Cloaked One"
+  },
+  {
+    "number": 75,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 40,
+    "title": "Al-Qiyamah",
+    "titleAr": "القيامة",
+    "pages": "540",
+    "juz": [
+      {
+        "index": "29",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_40"
+        }
+      }
+    ],
+    "englishName": "Al-Qiyaama",
+    "englishNameTranslation": "The Resurrection"
+  },
+  {
+    "number": 76,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 31,
+    "title": "Al-Insan",
+    "titleAr": "الإنسان",
+    "pages": "542",
+    "juz": [
+      {
+        "index": "29",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_31"
+        }
+      }
+    ],
+    "englishName": "Al-Insaan",
+    "englishNameTranslation": "Man"
+  },
+  {
+    "number": 77,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 50,
+    "title": "Al-Mursalat",
+    "titleAr": "المرسلات",
+    "pages": "544",
+    "juz": [
+      {
+        "index": "29",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_50"
+        }
+      }
+    ],
+    "englishName": "Al-Mursalaat",
+    "englishNameTranslation": "The Emissaries"
+  },
+  {
+    "number": 78,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 40,
+    "title": "An-Naba",
+    "titleAr": "النبأ",
+    "pages": "545",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_40"
+        }
+      }
+    ],
+    "englishName": "An-Naba",
+    "englishNameTranslation": "The Announcement"
+  },
+  {
+    "number": 79,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 46,
+    "title": "An-Naziat",
+    "titleAr": "النازعات",
+    "pages": "547",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_46"
+        }
+      }
+    ],
+    "englishName": "An-Naazi'aat",
+    "englishNameTranslation": "Those who drag forth"
+  },
+  {
+    "number": 80,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 42,
+    "title": "Abasa",
+    "titleAr": "عبس",
+    "pages": "548",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_42"
+        }
+      }
+    ],
+    "englishName": "Abasa",
+    "englishNameTranslation": "He frowned"
+  },
+  {
+    "number": 81,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 29,
+    "title": "At-Takwir",
+    "titleAr": "التكوير",
+    "pages": "550",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_29"
+        }
+      }
+    ],
+    "englishName": "At-Takwir",
+    "englishNameTranslation": "The Overthrowing"
+  },
+  {
+    "number": 82,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 19,
+    "title": "Al-Infitar",
+    "titleAr": "الإنفطار",
+    "pages": "551",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_19"
+        }
+      }
+    ],
+    "englishName": "Al-Infitaar",
+    "englishNameTranslation": "The Cleaving"
+  },
+  {
+    "number": 83,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 36,
+    "title": "Al-Mutaffifin",
+    "titleAr": "المطففين",
+    "pages": "552",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_36"
+        }
+      }
+    ],
+    "englishName": "Al-Mutaffifin",
+    "englishNameTranslation": "Defrauding"
+  },
+  {
+    "number": 84,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 25,
+    "title": "Al-Inshiqaq",
+    "titleAr": "الإنشقاق",
+    "pages": "553",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_25"
+        }
+      }
+    ],
+    "englishName": "Al-Inshiqaaq",
+    "englishNameTranslation": "The Splitting Open"
+  },
+  {
+    "number": 85,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 22,
+    "title": "Al-Buruj",
+    "titleAr": "البروج",
+    "pages": "554",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_22"
+        }
+      }
+    ],
+    "englishName": "Al-Burooj",
+    "englishNameTranslation": "The Constellations"
+  },
+  {
+    "number": 86,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 17,
+    "title": "At-Tariq",
+    "titleAr": "الطارق",
+    "pages": "555",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_17"
+        }
+      }
+    ],
+    "englishName": "At-Taariq",
+    "englishNameTranslation": "The Morning Star"
+  },
+  {
+    "number": 87,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 19,
+    "title": "Al-Ala",
+    "titleAr": "الأعلى",
+    "pages": "556",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_19"
+        }
+      }
+    ],
+    "englishName": "Al-A'laa",
+    "englishNameTranslation": "The Most High"
+  },
+  {
+    "number": 88,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 26,
+    "title": "Al-Ghashiyah",
+    "titleAr": "الغاشية",
+    "pages": "556",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_26"
+        }
+      }
+    ],
+    "englishName": "Al-Ghaashiya",
+    "englishNameTranslation": "The Overwhelming"
+  },
+  {
+    "number": 89,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 30,
+    "title": "Al-Fajr",
+    "titleAr": "الفجر",
+    "pages": "557",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_30"
+        }
+      }
+    ],
+    "englishName": "Al-Fajr",
+    "englishNameTranslation": "The Dawn"
+  },
+  {
+    "number": 90,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 20,
+    "title": "Al-Balad",
+    "titleAr": "البلد",
+    "pages": "559",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_20"
+        }
+      }
+    ],
+    "englishName": "Al-Balad",
+    "englishNameTranslation": "The City"
+  },
+  {
+    "number": 91,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 15,
+    "title": "Ash-Shams",
+    "titleAr": "الشمس",
+    "pages": "559",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_15"
+        }
+      }
+    ],
+    "englishName": "Ash-Shams",
+    "englishNameTranslation": "The Sun"
+  },
+  {
+    "number": 92,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 21,
+    "title": "Al-Lail",
+    "titleAr": "الليل",
+    "pages": "560",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_21"
+        }
+      }
+    ],
+    "englishName": "Al-Lail",
+    "englishNameTranslation": "The Night"
+  },
+  {
+    "number": 93,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 11,
+    "title": "Ad-Duha",
+    "titleAr": "الضحى",
+    "pages": "561",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_11"
+        }
+      }
+    ],
+    "englishName": "Ad-Dhuhaa",
+    "englishNameTranslation": "The Morning Hours"
+  },
+  {
+    "number": 94,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 8,
+    "title": "Ash-Sharh",
+    "titleAr": "الشرح",
+    "pages": "561",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_8"
+        }
+      }
+    ],
+    "englishName": "Ash-Sharh",
+    "englishNameTranslation": "The Consolation"
+  },
+  {
+    "number": 95,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 8,
+    "title": "At-Tin",
+    "titleAr": "التين",
+    "pages": "562",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_8"
+        }
+      }
+    ],
+    "englishName": "At-Tin",
+    "englishNameTranslation": "The Fig"
+  },
+  {
+    "number": 96,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 19,
+    "title": "Al-Alaq",
+    "titleAr": "العلق",
+    "pages": "562",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_19"
+        }
+      }
+    ],
+    "englishName": "Al-Alaq",
+    "englishNameTranslation": "The Clot"
+  },
+  {
+    "number": 97,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 5,
+    "title": "Al-Qadr",
+    "titleAr": "القدر",
+    "pages": "563",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_5"
+        }
+      }
+    ],
+    "englishName": "Al-Qadr",
+    "englishNameTranslation": "The Power, Fate"
+  },
+  {
+    "number": 98,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 8,
+    "title": "Al-Bayinah",
+    "titleAr": "البينة",
+    "pages": "563",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_8"
+        }
+      }
+    ],
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Evidence"
+  },
+  {
+    "number": 99,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 8,
+    "title": "Az-Zalzalah",
+    "titleAr": "الزلزلة",
+    "pages": "564",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_8"
+        }
+      }
+    ],
+    "englishName": "Az-Zalzala",
+    "englishNameTranslation": "The Earthquake"
+  },
+  {
+    "number": 100,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 11,
+    "title": "Al-Adiyat",
+    "titleAr": "العاديات",
+    "pages": "564",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_11"
+        }
+      }
+    ],
+    "englishName": "Al-Aadiyaat",
+    "englishNameTranslation": "The Chargers"
+  },
+  {
+    "number": 101,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 11,
+    "title": "Al-Qariah",
+    "titleAr": "القارعة",
+    "pages": "565",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_11"
+        }
+      }
+    ],
+    "englishName": "Al-Qaari'a",
+    "englishNameTranslation": "The Calamity"
+  },
+  {
+    "number": 102,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 8,
+    "title": "Al-Takathur",
+    "titleAr": "التكاثر",
+    "pages": "565",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_8"
+        }
+      }
+    ],
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition"
+  },
+  {
+    "number": 103,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 3,
+    "title": "Al-Asr",
+    "titleAr": "العصر",
+    "pages": "566",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_3"
+        }
+      }
+    ],
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch"
+  },
+  {
+    "number": 104,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 9,
+    "title": "Al-Humazah",
+    "titleAr": "الهمزة",
+    "pages": "566",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_9"
+        }
+      }
+    ],
+    "englishName": "Al-Humaza",
+    "englishNameTranslation": "The Traducer"
+  },
+  {
+    "number": 105,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 5,
+    "title": "Al-Fil",
+    "titleAr": "الفيل",
+    "pages": "566",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_5"
+        }
+      }
+    ],
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant"
+  },
+  {
+    "number": 106,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 4,
+    "title": "Quraish",
+    "titleAr": "قريش",
+    "pages": "567",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_4"
+        }
+      }
+    ],
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh"
+  },
+  {
+    "number": 107,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 7,
+    "title": "Al-Ma'un",
+    "titleAr": "الماعون",
+    "pages": "567",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_7"
+        }
+      }
+    ],
+    "englishName": "Al-Maa'un",
+    "englishNameTranslation": "Almsgiving"
+  },
+  {
+    "number": 108,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 3,
+    "title": "Al-Kauthar",
+    "titleAr": "الكوثر",
+    "pages": "567",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_3"
+        }
+      }
+    ],
+    "englishName": "Al-Kawthar",
+    "englishNameTranslation": "Abundance"
+  },
+  {
+    "number": 109,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 6,
+    "title": "Al-Kafirun",
+    "titleAr": "الكافرون",
+    "pages": "568",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_6"
+        }
+      }
+    ],
+    "englishName": "Al-Kaafiroon",
+    "englishNameTranslation": "The Disbelievers"
+  },
+  {
+    "number": 110,
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 3,
+    "title": "An-Nasr",
+    "titleAr": "النصر",
+    "pages": "568",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_3"
+        }
+      }
+    ],
+    "englishName": "An-Nasr",
+    "englishNameTranslation": "Divine Support"
+  },
+  {
+    "number": 111,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 5,
+    "title": "Al-Masad",
+    "titleAr": "المسد",
+    "pages": "568",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_5"
+        }
+      }
+    ],
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre"
+  },
+  {
+    "number": 112,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 4,
+    "title": "Al-Ikhlas",
+    "titleAr": "الإخلاص",
+    "pages": "569",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_4"
+        }
+      }
+    ],
+    "englishName": "Al-Ikhlaas",
+    "englishNameTranslation": "Sincerity"
+  },
+  {
+    "number": 113,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 5,
+    "title": "Al-Falaq",
+    "titleAr": "الفلق",
+    "pages": "569",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_5"
+        }
+      }
+    ],
+    "englishName": "Al-Falaq",
+    "englishNameTranslation": "The Dawn"
+  },
+  {
+    "number": 114,
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 6,
+    "title": "An-Nas",
+    "titleAr": "الناس",
+    "pages": "569",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_6"
+        }
+      }
+    ],
+    "englishName": "An-Naas",
+    "englishNameTranslation": "Mankind"
+  }
+]
