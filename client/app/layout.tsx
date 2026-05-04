@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Quran App",
   description: "Modern Quran reading application",
+  icons: {
+    icon: "/holy-quran-logo.webp",
+  },
 };
 
 export default function RootLayout({
