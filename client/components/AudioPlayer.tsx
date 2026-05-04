@@ -1,28 +1,3 @@
-// export default function AudioPlayer({ number }: any) {
-//   const play = () => {
-//     new Audio(
-//       `https://cdn.islamic.network/quran/audio/128/ar.alafasy/${number}.mp3`,
-//     ).play();
-//   };
-
-//   return <button onClick={play}>▶</button>;
-// }
-
-// "use client";
-
-// export default function AudioPlayer({ surah, ayah }: any) {
-//   const play = () => {
-//     const surahStr = String(surah).padStart(3, "0");
-//     const ayahStr = String(ayah).padStart(3, "0");
-
-//     const url = `https://cdn.islamic.network/quran/audio/128/ar.alafasy/${surahStr}${ayahStr}.mp3`;
-
-//     new Audio(url).play();
-//   };
-
-//   return <button onClick={play}>▶</button>;
-// }
-
 "use client";
 
 export default function AudioPlayer({ surah, ayah }: any) {

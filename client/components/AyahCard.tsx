@@ -18,9 +18,9 @@ export default function AyahCard({ ayah }: any) {
     <div className="p-4 bg-[#11161c] rounded-xl space-y-2 ">
       {/* 🔊 AUDIO BUTTON */}
       <div className="text-right">
-        <AudioPlayer surah={ayah.surah} ayah={ayah.ayah} />
+        <AudioPlayer surah={ayah?.surah} ayah={ayah?.ayah} />
       </div>
-      <h1>{ayah?.globalNumber}</h1>
+      <h1>{ayah?.ayah}</h1>
 
       {/* ARABIC */}
       <p
