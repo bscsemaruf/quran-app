@@ -1,0 +1,19 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = __importDefault(require("express"));
+const cors_1 = __importDefault(require("cors"));
+const search_1 = __importDefault(require("./routes/search"));
+const app = (0, express_1.default)();
+// ✅ middlewares
+app.use((0, cors_1.default)());
+app.use(express_1.default.json());
+// ✅ routes
+app.use("/api/search", search_1.default);
+// ✅ port handling (VERY IMPORTANT)
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
+});
