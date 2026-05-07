@@ -8,6 +8,7 @@ import quran from "@/data/quran.json";
 import AyahCard from "@/components/AyahCard";
 import SettingsModal from "@/components/SettingsModal";
 import { IAyah, ISurah } from "./types";
+import SurahPlayer from "@/components/SurahPlayer";
 
 export default function HomeClient() {
   const searchParams = useSearchParams();
@@ -132,6 +133,9 @@ export default function HomeClient() {
               <p className="text-sm text-gray-400">
                 Ayah {surahDetails?.count} • {surahDetails?.place}
               </p>
+              <div className="mt-4">
+                <SurahPlayer surah={selectedSurah} />
+              </div>
             </div>
 
             <div className="p-5 space-y-4">
