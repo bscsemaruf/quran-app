@@ -30,7 +30,7 @@ export default function SettingsModal({
 
         {/* Arabic Font */}
         <div>
-          <label className="block mb-2">Arabic Font</label>
+          <label className="block mb-2">{arabicFont}</label>
           <select
             className="w-full p-2 bg-[#0b0f14] rounded"
             value={arabicFont}

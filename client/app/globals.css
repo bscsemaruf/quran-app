@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+.font-amiri {
+  font-family: var(--font-amiri);
+}
+
+.font-scheherazade {
+  font-family: var(--font-scheherazade);
+}
+
 body {
   background-color: #0b0f14;
   color: #e5e7eb;

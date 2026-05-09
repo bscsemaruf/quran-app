@@ -150,14 +150,14 @@ export default function AudioPlayer({ surah, ayah }: AudioPlayerProps) {
   return (
     <button
       onClick={playing ? stop : play}
-      className={`px-3 py-1 rounded-lg text-sm transition
+      className={`px-3 py-1 rounded-lg text-sm transition bg-blend-lighten
       ${
         playing
-          ? "bg-red-600 hover:bg-red-700"
+          ? "bg-red-300 hover:bg-red-500"
           : "bg-green-600 hover:bg-green-700"
       }`}
     >
-      {playing ? "■ Stop" : "▶ Play"}
+      {playing ? "■" : "▶"}
     </button>
   );
 }
